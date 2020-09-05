@@ -10,9 +10,8 @@
 <a href="https://www.linkedin.com/in/siddharth-singh-1a2094194/">
     <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" height="10%" ; width="15%" ; margin-left:20px;></img></a>
       
-<a href="https://www.hackerrank.com/siddharthsingh28">
-      <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
-
 <a href="https://twitter.com/sid_singh0125">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" height="7%" ; width="10%" ; margin-left:20px;></img></a>
   
+<a href="https://www.hackerrank.com/siddharthsingh28">
+  <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>

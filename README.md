@@ -1,8 +1,8 @@
 ### Hello there! I'm Siddharth 👋
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidsinghrajput&bg_color=110,0cbaba,380036&title_color=fff&text_color=fff&show_icons=true" alt="Siddharth's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidsinghrajput&bg_color=130,0cbaba,380036&title_color=fff&text_color=fff&show_icons=true" alt="Siddharth's github stats" />
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsinghrajput&bg_color=110,0cbaba,380036&title_color=fff&text_color=fff&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsinghrajput&bg_color=130,0cbaba,380036&title_color=fff&text_color=fff&layout=compact" />
 <br>
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">

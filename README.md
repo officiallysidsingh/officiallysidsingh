@@ -1,4 +1,4 @@
-# Hello there!! I'm Siddharth 👋
+# Hello there!! I'm Siddharth 👋 <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="5%" height="5%">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidsinghrajput&bg_color=140,0cbaba,380036&title_color=fff&text_color=fff&show_icons=true&include_all_commits=true&hide=issues,stars" alt="Siddharth's github stats" />
 <br>
@@ -34,4 +34,4 @@
   <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
   
   ##
-   <img src="https://komarev.com/ghpvc/?username=sidsinghrajput" width=160px/>
+   <img align="right" src="https://komarev.com/ghpvc/?username=sidsinghrajput" width=160px/>

@@ -33,4 +33,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="10%" ; width="15%" ;></img></a>
   
   ##
-   <img align="right" src="https://komarev.com/ghpvc/?username=sidsinghrajput" width=160px/>
+   <img align="center" src="https://komarev.com/ghpvc/?username=sidsinghrajput" width=160px/>

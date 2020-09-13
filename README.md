@@ -1,6 +1,6 @@
 # Hello there!! I'm Siddharth 👋
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidsinghrajput&bg_color=140,0cbaba,380036&title_color=fff&text_color=fff&show_icons=true&include_all_commits=true&hide=issues" alt="Siddharth's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidsinghrajput&bg_color=140,0cbaba,380036&title_color=fff&text_color=fff&show_icons=true&include_all_commits=true&hide=issues,stars" alt="Siddharth's github stats" />
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsinghrajput&bg_color=130,0cbaba,380036&title_color=fff&text_color=fff&layout=compact" />
 <br>

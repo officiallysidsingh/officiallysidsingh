@@ -6,15 +6,6 @@
 <br>
 
 ## Languages
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://github.com/sidsinghrajput/sidsinghrajput/blob/master/styles.css">
-</head>
-<body>
     <table>
         <tr>
             <td><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="width:100%"></td>
@@ -28,9 +19,6 @@
             <td><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="width:100%"></td>
         </tr>
     </table>
-</body>
-</html>
-
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
 

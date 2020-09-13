@@ -7,7 +7,7 @@
 
 ## Languages
 
-<div class="row">
+<div class="row1">
     <div class="column">
       <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="width:100%; margin-right:10%;">
     </div>
@@ -24,7 +24,7 @@
 
 <br>
 
-<div class="row">
+<div class="row2">
     <div class="column">
         <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width:100%">
     </div>

@@ -1,9 +1,5 @@
 # Hello there!! I'm Siddharth 👋 
 
-I'm a Web Developer.<img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="5%" height="5%">
-
-I'm currently pursuing B.Tech in CSE with specialization in AI & ML from Galgotias University.
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sidsinghrajput&bg_color=140,0cbaba,380036&title_color=fff&text_color=fff&show_icons=true&include_all_commits=true&hide=issues,stars" alt="Siddharth's github stats" />
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsinghrajput&bg_color=130,0cbaba,380036&title_color=fff&text_color=fff&layout=compact&hide=ruby" />
@@ -28,10 +24,10 @@ I'm currently pursuing B.Tech in CSE with specialization in AI & ML from Galgoti
 ## Let's Connect
 
 <a href="https://www.linkedin.com/in/siddharth-singh-1a2094194/">
-    <img align="left" src="https://www.flaticon.com/premium-icon/icons/svg/3256/3256016.svg" height="10%" ; width="15%" ; margin-left:20px;></img></a>
+    <img align="left" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" height="5%" ; width="5%" ; margin-left:20px;></img></a>
       
 <a href="https://twitter.com/sid_singh0125">
-  <img src="https://www.flaticon.com/premium-icon/icons/svg/3015/3015802.svg" height="7%" ; width="10%" ; margin-left:20px;></img></a>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" height="8%" ; width="8%" ; margin-left:20px;></img></a>
   
 <a href="https://www.hackerrank.com/siddharthsingh28">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="10%" ; width="15%" ;></img></a>

@@ -32,5 +32,5 @@
 <a href="https://www.hackerrank.com/siddharthsingh28">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="8%" ; width="8%" ;></img></a>
   
-  ##
-   <div style="text-align:center"> <img src="https://komarev.com/ghpvc/?username=sidsinghrajput" width=160px/>
+  ## Visitors
+ <img src="https://komarev.com/ghpvc/?username=sidsinghrajput" width=160px/>

@@ -32,9 +32,6 @@
 <a href="https://www.hackerrank.com/siddharthsingh28">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="8%" ; width="8%" ;></img></a>
   
- <a href="https://twitter.com/sidsingh0125" target="_blank">
-  <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="8%" ; width="8%" ; margin-left:0px;></img></a>   
-  
   
   ## Visitors
  <img src="https://komarev.com/ghpvc/?username=sidsinghrajput" width=160px/>

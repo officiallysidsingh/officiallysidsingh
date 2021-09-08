@@ -5,12 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallysidsingh&bg_color=130,0cbaba,380036&title_color=fff&text_color=fff&layout=compact&hide=ruby" />
 <br>
 
-## Languages I Know
-
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" style="width:100%">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA" style="width:100%">  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" style="width:100%">  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="width:100%">
-
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width:100%">  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="width:100%">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="width:100%">
-
 ## Frameworks I've Worked On
 
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.Js">  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="ExpressJs">  <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery">

@@ -14,13 +14,13 @@
 ## Let's Connect
 
 <a href="https://www.linkedin.com/in/siddharth-singh-1a2094194/">
-    <img align="left" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" height="7%" ; width="7%" ; margin-left:20px;></img></a>
+    <img align="left" src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/linkedin.png" height="7%" ; width="7%" ; margin-left:20px;></img></a>
       
 <a href="https://twitter.com/sid_singh0125">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/889/889147.svg" height="7%" ; width="7%" ; margin-left:20px;></img></a>
+  <img src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/twitter.png" height="8%" ; width="8%" ; margin-left:20px;></img></a>
   
-<a href="https://www.hackerrank.com/siddharthsingh28">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="8%" ; width="8%" ;></img></a>
+<a href="https://leetcode.com/sid_singh/">
+  <img src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/leetcode.png" height="20%"; width="20%" ;></img></a>
   
   
   ## Visitors

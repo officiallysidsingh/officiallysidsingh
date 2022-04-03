@@ -2,9 +2,6 @@
 
 <img  alt="Siddharth's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/officiallysidsingh?cardType=level-alternate&theme=github-dark" /> 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallysidsingh&bg_color=130,0cbaba,380036&title_color=fff&text_color=fff&layout=compact&hide=ruby" />
-<br>
-
 ## Technologies I've Worked On
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="ExpressJs">  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node">
 

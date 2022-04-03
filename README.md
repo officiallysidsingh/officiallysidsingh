@@ -1,6 +1,6 @@
 # Hey there!! I'm Siddharth 👋 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/officiallysidsingh?cardType=level-alternate&theme=github-dark)](#)
+<img  alt="Siddharth's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/officiallysidsingh?cardType=level-alternate&theme=github-dark" /> 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallysidsingh&bg_color=130,0cbaba,380036&title_color=fff&text_color=fff&layout=compact&hide=ruby" />
 <br>

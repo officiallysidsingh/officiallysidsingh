@@ -12,8 +12,8 @@
 <a href="https://www.linkedin.com/in/siddharth-singh-1a2094194/">
     <img align="left" src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/linkedin.png" height="7%" ; width="7%" ; margin-left:20px;></img></a>
       
-<a href="https://twitter.com/sid_singh0125">
-  <img src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/twitter.png" height="8%" ; width="8%" ; margin-left:20px;></img></a>
+<a href="https://discordapp.com/users/Siddharth Singh#6391">
+  <img src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/discord.svg" height="8%" ; width="8%" ; margin-left:20px;></img></a>
   
 <a href="https://leetcode.com/sid_singh/">
   <img src="https://github.com/officiallysidsingh/officiallysidsingh/blob/master/icons/leetcode.png" height="20%"; width="20%" ;></img></a>

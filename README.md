@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=70&duration=3000&pause=300&color=FA8B00&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Hey+there!!;I'm+Siddharth+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG For Hello](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=70&duration=3000&pause=300&color=FA8B00&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Hey+there!!;I'm+Siddharth+%F0%9F%91%8B)](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=70&duration=3000&pause=300&color=FA8B00&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Hey+there!!;I'm+Siddharth+%F0%9F%91%8B)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/officiallysidsingh?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false&Border=151515&Text=FDFDFD&Title=FA8B00&Background=151515&Ring=FA8B00&center=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/officiallysidsingh?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false&Border=151515&Text=FDFDFD&Title=FA8B00&Background=151515&Ring=FA8B00&center=true)](https://awesome-github-stats.azurewebsites.net/user-stats/officiallysidsingh?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false&Border=151515&Text=FDFDFD&Title=FA8B00&Background=151515&Ring=FA8B00&center=true)
 
 ## My Github Streak
 

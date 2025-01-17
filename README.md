@@ -2,10 +2,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/officiallysidsingh?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false&Border=151515&Text=FDFDFD&Title=FA8B00&Background=151515&Ring=FA8B00&center=true)](https://awesome-github-stats.azurewebsites.net/user-stats/officiallysidsingh?cardType=level-alternate&theme=vision-friendly-dark&preferLogin=false&Border=151515&Text=FDFDFD&Title=FA8B00&Background=151515&Ring=FA8B00&center=true)
 
-## My Github Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=officiallysidsingh&theme=dark&hide_border=true)](https://streak-stats.demolab.com?user=officiallysidsingh&theme=dark&hide_border=true)
-
 ## Technologies I've Worked On
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="ExpressJs">  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node">
 
